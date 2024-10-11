@@ -1,7 +1,7 @@
-Hi, I'm Pavel Grigoryev!
+## WELCOME! 
 
 **About me:**  
-Data Scientist with a passion for data analysis and visualization.  
+I'm Pavel Grigoryev. Data Scientist with a passion for data analysis and visualization.  
 I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
@@ -17,11 +17,13 @@ By extracting insights from complex data sets, I help organizations make data-dr
 When I'm not analyzing data, you can find me planning my next cycling adventure in the Alps.
 
 Let's make data-driven magic happen!
-<br>
-Привет, я Павел Григорьев!  
+
+***
+
+## Добро пожаловать!
 
 **Обо мне:**
-Data Scientist с увлечением к анализу и визуализации данных.
+Я Павел Григорьев. Data Scientist с увлечением к анализу и визуализации данных.
 Я специализируюсь в анализе данных и визуализации, с акцентом на принятии обоснованных решений.
 Извлекая знания из сложных наборов данных, я помогаю организациям принимать решения, основанные на данных, которые стимулируют бизнес-рост и улучшение.
 
