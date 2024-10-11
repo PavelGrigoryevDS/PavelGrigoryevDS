@@ -6,7 +6,7 @@ I specialize in data analysis and visualization, with a focus on empowering info
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
 **Technical Skills:**
-- **Programming languages:** Python ( NumPy, Pandas, scikit-learn), SQL (PostgreSQL, MySQL).
+- **Programming languages:** Python ( NumPy, Pandas, scikit-learn), SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
 - **Data analysis and visualization:** Plotly, NumPy, Pandas, Dash, Matplotlib, Seaborn, Power BI, Tableau.
 - **Machine learning and AI:** scikit-learn, Pyspark.
 - **Natural Language Processing:** NLTK
@@ -28,7 +28,7 @@ Let's make data-driven magic happen!
 Извлекая знания из сложных наборов данных, я помогаю организациям принимать решения, основанные на данных, которые стимулируют бизнес-рост и улучшение.
 
 **Технические навыки:**
-- **Языки программирования:** Python ( NumPy, Pandas, scikit-learn), SQL (PostgreSQL, MySQL).
+- **Языки программирования:** Python ( NumPy, Pandas, scikit-learn), SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
 - **Анализ и визуализация данных:** Plotly, NumPy, Pandas, Dash, Matplotlib, Seaborn, Power BI, Tableau.
 - **Машинное обучение и ИИ:** scikit-learn, Pyspark.
 - **Обработка естественного языка:** NLTK
