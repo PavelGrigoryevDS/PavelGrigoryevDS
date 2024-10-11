@@ -14,10 +14,6 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **DevOps:** Git, Docker.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
 
-When I'm not analyzing data, you can find me planning my next cycling adventure in the Alps.
-
-Let's make data-driven magic happen!
-
 ***
 
 ## Добро пожаловать!
@@ -36,6 +32,3 @@ Let's make data-driven magic happen!
 - **DevOps:** Git, Docker.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
   
-Когда я не анализирую данные, вы можете найти меня, планирующим следующее велосипедное приключение в Альпах.
-
-Давайте сотворим магию с данными!
