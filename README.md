@@ -1,6 +1,9 @@
 Hi, I'm Pavel Grigoryev!
 
-Data Scientist with a passion for turning data into insights.
+**About me:**
+Data Scientist with a passion for data analysis and visualization.  
+I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
+By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
 **Technical Skills:**
 - **Programming languages:** Python ( NumPy, Pandas, scikit-learn), SQL (PostgreSQL, MySQL).
@@ -15,8 +18,11 @@ When I'm not analyzing data, you can find me planning my next cycling adventure 
 
 Let's make data-driven magic happen!
 
-Привет! Я Павел Григорьев.  
+Привет, я Павел Григорьев!  
+
 Data Scientist с увлечением к анализу и визуализации данных.
+Я специализируюсь в анализе данных и визуализации, с акцентом на принятии обоснованных решений.
+Извлекая знания из сложных наборов данных, я помогаю организациям принимать решения, основанные на данных, которые стимулируют бизнес-рост и улучшение.
 
 **Технические навыки:**
 - **Языки программирования:** Python ( NumPy, Pandas, scikit-learn), SQL (PostgreSQL, MySQL).
