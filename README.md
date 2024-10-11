@@ -12,7 +12,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Natural Language Processing:** NLTK
 - **Web scraping:** BeautifulSoup, Selenium, Scrapy.
 - **DevOps:** Git, Docker.
-- **IDEs:** VS Code, Jupyter Notebook, Zeppelin, PyCharm.
+- **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
 
 When I'm not analyzing data, you can find me planning my next cycling adventure in the Alps.
 
@@ -34,7 +34,7 @@ Let's make data-driven magic happen!
 - **Обработка естественного языка:** NLTK
 - **Веб-скрейпинг:** BeautifulSoup, Selenium, Scrapy.
 - **DevOps:** Git, Docker.
-- **IDEs:** VS Code, Jupyter Notebook, Zeppelin, PyCharm.
+- **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
   
 Когда я не анализирую данные, вы можете найти меня, планирующим следующее велосипедное приключение в Альпах.
 
