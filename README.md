@@ -6,12 +6,12 @@ I specialize in data analysis and visualization, with a focus on empowering info
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
 **Technical Skills:**
-- **Programming languages:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
+- **Programming languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
 - **Data analysis and visualization:** Plotly, NumPy, Pandas, Dash, Matplotlib, Seaborn, Power BI, Tableau, Redash, DataLens, Superset.
 - **Machine learning and AI:** scikit-learn, Pyspark.
 - **Natural Language Processing:** NLTK
 - **Web scraping:** BeautifulSoup, Selenium, Scrapy.
-- **DevOps:** Git, Docker.
+- **DevOps:** Git, Docker, Apache Airflow.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
 
 ***
@@ -24,11 +24,11 @@ By extracting insights from complex data sets, I help organizations make data-dr
 Извлекая знания из сложных наборов данных, я помогаю организациям принимать решения, основанные на данных, которые стимулируют бизнес-рост и улучшение.
 
 **Технические навыки:**
-- **Языки программирования:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
+- **Языки программирования:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
 - **Анализ и визуализация данных:** Plotly, NumPy, Pandas, Dash, Matplotlib, Seaborn, Power BI, Tableau, Redash, DataLens, Superset.
 - **Машинное обучение и ИИ:** scikit-learn, Pyspark.
 - **Обработка естественного языка:** NLTK
 - **Веб-скрейпинг:** BeautifulSoup, Selenium, Scrapy.
-- **DevOps:** Git, Docker.
+- **DevOps:** Git, Docker, Apache Airflow.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
   
