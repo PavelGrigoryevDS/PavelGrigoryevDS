@@ -14,4 +14,4 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **DevOps:** Git, Docker, Apache Airflow.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PAGriAnalytics&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PAGriAnalytics)](https://git.io/streak-stats)
