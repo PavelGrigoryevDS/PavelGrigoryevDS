@@ -14,21 +14,4 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **DevOps:** Git, Docker, Apache Airflow.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
 
-***
-
-## Добро пожаловать!
-
-**Обо мне:**  
-Я Павел Григорьев. Data Scientist с увлечением к анализу и визуализации данных.
-Я специализируюсь в анализе данных и визуализации, с акцентом на принятии обоснованных решений.
-Извлекая знания из сложных наборов данных, я помогаю организациям принимать решения, основанные на данных, которые стимулируют бизнес-рост и улучшение.
-
-**Технические навыки:**
-- **Языки программирования:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
-- **Анализ и визуализация данных:** Plotly, NumPy, Pandas, Dash, Matplotlib, Seaborn, Power BI, Tableau, Redash, DataLens, Superset.
-- **Машинное обучение и ИИ:** scikit-learn, Pyspark.
-- **Обработка естественного языка:** NLTK
-- **Веб-скрейпинг:** BeautifulSoup, Selenium, Scrapy.
-- **DevOps:** Git, Docker, Apache Airflow.
-- **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
-  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
