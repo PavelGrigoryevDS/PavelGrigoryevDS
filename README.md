@@ -12,7 +12,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
 ---
 
-**Technical Skills:**
+**Languages and Tools:**
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
 - **Data analysis and visualization:** 
   - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Plotly, Dash, Matplotlib, Seaborn.
@@ -42,6 +42,22 @@ By extracting insights from complex data sets, I help organizations make data-dr
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow"  alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
 </div>
+
+---
+
+**Skills:**
+    
+- Глубокий анализ данных: предобработка, очистка и выявление закономерностей с использованием визуализации для поддержки принятия решений.
+- Написание сложных SQL-запросов: работа с вложенными запросами, оконными функциями и конструкциями CASE и WITH для извлечения и анализа данных.
+- Анализ продуктовых метрик: LTV, RR, CR, ARPU, ARPPU, MAU, DAU и другие ключевые показатели.
+- Проведение A/B тестирования: анализ результатов с использованием статистических методов для оценки эффективности изменений.
+- Когортный анализ и RFM-сегментирование: выявление паттернов поведения пользователей для оптимизации маркетинговых стратегий.
+- Визуализация данных и разработка дашбордов: создание интерактивных отчетов в Tableau, Redash, Power BI и других инструментах для представления аналитики.
+- Опыт работы с Linux, Git и Apache Airflow: управление версиями кода и автоматизация рабочих процессов в области анализа данных.
+- Работа с большими данными: опыт работы с инструментами и технологиями для обработки больших объемов данных (например, Hadoop, Spark).
+- Работа с API: интеграция и извлечение данных из различных источников через API.
+- Понимание продуктовой стратегии: знание принципов разработки и улучшения продукта, включая анализ пользовательских потребностей и формирование рекомендаций для его развития.
+- Веб-парсинг: опыт извлечения данных из веб-сайтов с использованием инструментов и библиотек, таких как BeautifulSoup, Scrapy и Selenium, для сбора информации и анализа данных.
 
 ---
 
