@@ -40,5 +40,5 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
 **My Stats:**
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAGriAnalytics&hide_border=true&theme=flag-india) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true) |
-|:--:|:--:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true) |
+|:--:|
