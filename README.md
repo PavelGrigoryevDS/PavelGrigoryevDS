@@ -38,12 +38,11 @@ By extracting insights from complex data sets, I help organizations make data-dr
   <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
 </div>
 
-<h3>My Stats:</h3>
+**My Stats:**
 
-<div style="display: flex; justify-content: space-between;">
+<div>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAGriAnalytics&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 
