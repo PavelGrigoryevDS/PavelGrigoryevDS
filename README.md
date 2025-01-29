@@ -1,10 +1,12 @@
 ## WELCOME! 
-My socials:  [![](https://camo.githubusercontent.com/5292cf9fbe50b47fc032ce7145fd4835f20f5bd777dc193e19486f901b5d83e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/PAGriAnalytics),  [![](https://camo.githubusercontent.com/3e6ec0f4aa04b78a81ed381c148f23a34e69f901a978976c3d760546e2295264/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d77686974653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d626c61636b)](mailto:pagri.analytics@gmail.com) 
 
 **About me:**  
 I'm Pavel Grigoryev. Data Scientist with a passion for data analysis and visualization.  
 I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
+
+**My socials:**
+[![](https://camo.githubusercontent.com/5292cf9fbe50b47fc032ce7145fd4835f20f5bd777dc193e19486f901b5d83e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/PAGriAnalytics),  [![](https://camo.githubusercontent.com/3e6ec0f4aa04b78a81ed381c148f23a34e69f901a978976c3d760546e2295264/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d77686974653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d626c61636b)](mailto:pagri.analytics@gmail.com) 
 
 **Technical Skills:**
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
