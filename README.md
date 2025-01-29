@@ -64,5 +64,5 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
 **My Stats:**
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true) |
+| ![GitHub Streak](https://github-readme-streak-stats-bice-six.vercel.app//?user=PAGriAnalytics&hide_border=true) |
 |:--:|
