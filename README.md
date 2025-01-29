@@ -6,7 +6,7 @@
 I hold a higher technical education.  
 I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
-
+---
 **Technical Skills:**
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
 - **Data analysis and visualization:** 
@@ -37,7 +37,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow"  alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
 </div>
-
+---
 **My Stats:**
 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true) |
