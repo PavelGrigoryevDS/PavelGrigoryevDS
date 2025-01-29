@@ -17,7 +17,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Data analysis and visualization:** 
   - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Plotly, Dash, Matplotlib, Seaborn.
   - **Tools:** Power BI, Tableau, Redash, DataLens, Superset.
-- **Machine learning and AI:** scikit-learn, Pyspark.
+- **Machine learning and AI:** Scikit-learn, Pyspark.
 - **Natural Language Processing:** NLTK.
 - **Web scraping:** BeautifulSoup, Selenium, Scrapy.
 - **DevOps:** Linux, Git, Docker, Apache Airflow.
@@ -33,9 +33,12 @@ By extracting insights from complex data sets, I help organizations make data-dr
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/power-bi.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>  
+  <img src="https://camo.githubusercontent.com/dd749c222d8c2520e9595af51d39578b46e22d5190fe5b2f31c01bc32446321e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" title="Scikit-learn" **alt="Scikit-learn" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
