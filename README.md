@@ -41,14 +41,8 @@ By extracting insights from complex data sets, I help organizations make data-dr
 <h3>My Stats:</h3>
 
 <div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; margin-right: 10px;">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAGriAnalytics&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-
-  <div style="flex: 1; margin-left: 10px;">
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true)](https://git.io/streak-stats)
-  </div>
 
 </div>
 
