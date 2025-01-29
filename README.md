@@ -40,9 +40,5 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
 **My Stats:**
 
-<div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAGriAnalytics&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true)](https://git.io/streak-stats)
-</div>
-
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAGriAnalytics&layout=compact&theme=vision-friendly-dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PAGriAnalytics&hide_border=true) |
+|:--:|:--:|
