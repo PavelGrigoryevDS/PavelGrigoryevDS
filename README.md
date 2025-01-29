@@ -48,7 +48,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 **Skills:**
 
 - **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
-- **Writing complex SQL queries:**  working with nested queries, window functions, and CASE and WITH statements for data extraction and analysis.
+- **Writing complex SQL queries:**  working with nested queries, window functions, CASE and WITH statements for data extraction and analysis.
 - **Understanding product strategy:**  knowledge of product development and improvement principles, including analyzing user needs and formulating recommendations for its growth.
 - **Product metrics analysis:**  LTV, RR, CR, ARPU, ARPPU, MAU, DAU, and other key performance indicators.
 - **Conducting A/B testing:**  analyzing results using statistical methods to evaluate the effectiveness of changes.
