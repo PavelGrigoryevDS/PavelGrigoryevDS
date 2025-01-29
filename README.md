@@ -46,18 +46,17 @@ By extracting insights from complex data sets, I help organizations make data-dr
 ---
 
 **Skills:**
-    
-- Глубокий анализ данных: предобработка, очистка и выявление закономерностей с использованием визуализации для поддержки принятия решений.
-- Написание сложных SQL-запросов: работа с вложенными запросами, оконными функциями и конструкциями CASE и WITH для извлечения и анализа данных.
-- Анализ продуктовых метрик: LTV, RR, CR, ARPU, ARPPU, MAU, DAU и другие ключевые показатели.
-- Проведение A/B тестирования: анализ результатов с использованием статистических методов для оценки эффективности изменений.
-- Когортный анализ и RFM-сегментирование: выявление паттернов поведения пользователей для оптимизации маркетинговых стратегий.
-- Визуализация данных и разработка дашбордов: создание интерактивных отчетов в Tableau, Redash, Power BI и других инструментах для представления аналитики.
-- Опыт работы с Linux, Git и Apache Airflow: управление версиями кода и автоматизация рабочих процессов в области анализа данных.
-- Работа с большими данными: опыт работы с инструментами и технологиями для обработки больших объемов данных (например, Hadoop, Spark).
-- Работа с API: интеграция и извлечение данных из различных источников через API.
-- Понимание продуктовой стратегии: знание принципов разработки и улучшения продукта, включая анализ пользовательских потребностей и формирование рекомендаций для его развития.
-- Веб-парсинг: опыт извлечения данных из веб-сайтов с использованием инструментов и библиотек, таких как BeautifulSoup, Scrapy и Selenium, для сбора информации и анализа данных.
+
+- **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
+- **Writing complex SQL queries:**  working with nested queries, window functions, and CASE and WITH statements for data extraction and analysis.
+- **Product metrics analysis:**  LTV, RR, CR, ARPU, ARPPU, MAU, DAU, and other key performance indicators.
+- **Conducting A/B testing:**  analyzing results using statistical methods to evaluate the effectiveness of changes.
+- **Cohort analysis and RFM segmentation:**  identifying user behavior patterns to optimize marketing strategies.
+- **Data visualization and dashboard development:**  creating interactive reports in Tableau, Redash, Power BI, and other tools for presenting analytics.
+- **Working with big data:**  experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
+- **Working with APIs:**  integrating and extracting data from various sources via APIs.
+- **Understanding product strategy:**  knowledge of product development and improvement principles, including analyzing user needs and formulating recommendations for its growth.
+- **Web scraping:** experience in extracting data from websites using tools and libraries such as BeautifulSoup, Scrapy, and Selenium for information gathering and data analysis.
 
 ---
 
