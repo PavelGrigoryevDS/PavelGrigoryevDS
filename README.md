@@ -11,7 +11,7 @@ I specialize in data analysis and visualization, with a focus on empowering info
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
 ---
-
+ 
 **Languages and Tools:**
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
 - **Data analysis and visualization:** 
