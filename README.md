@@ -45,7 +45,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 </div>
 
 ---
-
+ 
 **Skills:**
 
 - **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
