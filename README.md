@@ -13,7 +13,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 ---
  
 **Languages and Tools:**
-- **Programming languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
+- **Programming languages:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
 - **Data analysis and visualization:** 
   - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Plotly, Dash, Matplotlib, Seaborn.
   - **Tools:** Power BI, Tableau, Redash, DataLens, Superset.
