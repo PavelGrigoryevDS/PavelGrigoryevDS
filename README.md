@@ -32,7 +32,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
   <a href="https://numpy.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/></a>&nbsp;
   <a href="https://plotly.com">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/></a>&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" title="Plotly" alt="Plotly" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mysql.com">
