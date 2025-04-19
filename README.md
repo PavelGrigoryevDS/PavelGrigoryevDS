@@ -45,8 +45,8 @@ By extracting insights from complex data sets, I help organizations make data-dr
       <img src="https://camo.githubusercontent.com/12f3ad3d8fe61b4bec6fd507a2e91af1044ec25e095c38d7cee0c08b2137b599/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63662f4e65775f506f7765725f42495f4c6f676f2e737667" title="Power BI" alt="Power BI" width="40" height="40"/></a>&nbsp;
   <a href="https://redash.io">
       <img src="https://camo.githubusercontent.com/80781acc07c382f5bc2d49950c0507dca4e72ffb8a457a397b7c4a2c9ccab460/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f726564617368696f2f726564617368696f2d69636f6e2e737667" title="Redash" alt="Redash" width="40" height="40"/></a>&nbsp;
-  <a href="https://scikit-learn.org/stable/">
-      <img src=" https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="40" height="40"/></a>&nbsp;
+  <a href="https://scikit-learn.org">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="40" height="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com">
       <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org">
