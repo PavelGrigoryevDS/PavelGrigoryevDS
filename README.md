@@ -34,7 +34,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
   <a href="https://numpy.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://plotly.com">
+<!--   <a href="https://plotly.com">
       <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;  
   </a>
   <a href="https://matplotlib.org">
@@ -75,7 +75,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
  </a>
  <a href="https://airflow.apache.org">
      <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
- </a>
+ </a> -->
 
   </div>
 
