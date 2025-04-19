@@ -27,13 +27,13 @@ By extracting insights from complex data sets, I help organizations make data-dr
 <div>
    <a href="https://www.python.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://pandas.pydata.org">
      <img src="https://pandas.pydata.org/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://numpy.org">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  </a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+  </a>&nbsp;
 <!--   <a href="https://plotly.com">
       <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;  
   </a>
