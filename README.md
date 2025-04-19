@@ -27,52 +27,52 @@ By extracting insights from complex data sets, I help organizations make data-dr
 <div>
    <a href="https://www.python.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   <a href="https://pandas.pydata.org">
      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   <a href="https://numpy.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   <a href="https://plotly.com">
       <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;  
-  </a>&nbsp;
+  </a>
   <a href="https://www.postgresql.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://www.mysql.com">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://www.mongodb.com">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://www.tableau.com">
       <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://powerbi.microsoft.com">
       <img src="https://camo.githubusercontent.com/12f3ad3d8fe61b4bec6fd507a2e91af1044ec25e095c38d7cee0c08b2137b599/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63662f4e65775f506f7765725f42495f4c6f676f2e737667" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://redash.io">
       <img src="https://camo.githubusercontent.com/80781acc07c382f5bc2d49950c0507dca4e72ffb8a457a397b7c4a2c9ccab460/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f726564617368696f2f726564617368696f2d69636f6e2e737667" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;   
-  </a>&nbsp;
+  </a>
   <a href="https://code.visualstudio.com">
       <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://jupyter.org">
       <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
   <a href="https://www.linux.org">
       <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  </a>&nbsp;
+  </a>
  <a href="https://git-scm.com">
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- </a>&nbsp;
+ </a>
  <a href="https://www.docker.com">
      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
- </a>&nbsp;
+ </a>
  <a href="https://airflow.apache.org">
      <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
- </a>&nbsp;
+ </a>
 
   </div>
 
