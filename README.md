@@ -25,13 +25,13 @@ By extracting insights from complex data sets, I help organizations make data-dr
   
 
 <div>
-   <a href="https://www.python.org" rel="nofollow" style="text-decoration: none;">
+   <a href="https://www.python.org" rel="nofollow">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org" rel="nofollow" style="text-decoration: none;">
+  <a href="https://pandas.pydata.org" rel="nofollow">
      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
   </a>
-<!--   <a href="https://numpy.org">
+  <a href="https://numpy.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
   </a>
   <a href="https://plotly.com">
@@ -72,7 +72,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
  </a>
  <a href="https://airflow.apache.org">
      <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
- </a> -->
+ </a>
 
   </div>
 
