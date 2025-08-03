@@ -9,8 +9,6 @@
 I hold a higher technical education.  
 I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
-
----
  
 ## Languages and Tools
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
@@ -62,8 +60,6 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
   </div>
 
----
- 
 ## Skills
 
 - **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
@@ -78,8 +74,6 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Machine Learning Applications:** Capable of building and applying simple machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
 - **Working with APIs:**  integrating and extracting data from various sources via APIs.
   
----
-
 ## My GitHub Stats
  
 | ![GitHub Streak](https://github-readme-streak-stats-bice-six.vercel.app//?user=PavelGrigoryevDS&hide_border=true) |
