@@ -5,12 +5,12 @@
 [![](https://camo.githubusercontent.com/5292cf9fbe50b47fc032ce7145fd4835f20f5bd777dc193e19486f901b5d83e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/PavelGrigoryevDS)  [![](https://camo.githubusercontent.com/3e6ec0f4aa04b78a81ed381c148f23a34e69f901a978976c3d760546e2295264/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d77686974653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d626c61636b)](mailto:pavel.grigoryev.ds@gmail.com) 
 
 
-## About me
+### About me
 I hold a higher technical education.  
 I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
  
-## Languages and Tools
+### Languages and Tools
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
 - **Data analysis and visualization:** 
   - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Plotly, Dash, Matplotlib, Seaborn.
@@ -60,7 +60,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
   </div>
 
-## Skills
+### Skills
 
 - **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
 - **Writing complex SQL queries:**  working with nested queries, window functions, CASE and WITH statements for data extraction and analysis.
@@ -73,8 +73,25 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Working with big data:**  experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
 - **Machine Learning Applications:** Capable of building and applying simple machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
 - **Working with APIs:**  integrating and extracting data from various sources via APIs.
+
+### 🌟 Featured Projects
+
+#### [🌊 Deep Sales Analysis of Olist E-Commerce](https://github.com/PavelGrigoryevDS/olist-deep-dive)
+
+**Stack:** `Python` | `Pandas` | `Plotly` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
+
+**Key Methods:** `Time-Series` | `Anomaly Detection` | `Custom Metrics` | `RFM/Cohorts` | `NLP` | `Clustering`  
+
+Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and actionable business recommendations.
+- Time-series analysis of sales dynamics, seasonality, and trend decomposition
+- Anomaly detection in orders, payments, and delivery times
+- Customer profiling (RFM segmentation, clustering, geo-analysis)
+- Cohort analysis to track retention and lifetime value (LTV)
+- NLP processing of customer reviews (sentiment analysis)
+- Hypothesis validation involved conducting tests to verify data-driven assumptions.
+- Delivered strategic, data-backed recommendations to optimize logistics, enhance customer retention strategies, and drive sales growth.
   
-## My GitHub Stats
+### My GitHub Stats
  
 | ![GitHub Streak](https://github-readme-streak-stats-bice-six.vercel.app//?user=PavelGrigoryevDS&hide_border=true) |
 |:--:|
