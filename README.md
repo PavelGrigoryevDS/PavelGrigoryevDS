@@ -9,6 +9,8 @@
 I hold a higher technical education.  
 I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
+
+---
  
 ### 🛠️ Languages and Tools
 - **Programming languages:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
@@ -60,6 +62,8 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
   </div>
 
+---
+
 ### 🎯 Skills
 
 - **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
@@ -73,6 +77,8 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Working with big data:**  experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
 - **Machine Learning Applications:** Capable of building and applying simple machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
 - **Working with APIs:**  integrating and extracting data from various sources via APIs.
+
+---
 
 ### 🌟 Featured Projects
 
@@ -93,6 +99,8 @@ Powerful pandas extension that enhances DataFrames with production-ready analyti
 - Modular architecture allows extending with domain-specific methods
 - Preserves all native pandas functionality for backward compatibility
 
+---
+
 #### [🌊 Deep Sales Analysis of Olist E-Commerce](https://github.com/PavelGrigoryevDS/olist-deep-dive)
 
 **Stack:** `Python` | `Pandas` | `Plotly` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
@@ -107,6 +115,8 @@ Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and
 - NLP processing of customer reviews (sentiment analysis)
 - Hypothesis validation involved conducting tests to verify data-driven assumptions.
 - Delivered strategic, data-backed recommendations to optimize logistics, enhance customer retention strategies, and drive sales growth.
+
+---
   
 ### 📊 My GitHub Stats
  
