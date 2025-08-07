@@ -76,9 +76,10 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
 ### 🌟 Featured Projects
 
-#### 🚀 Frameon - Advanced Analytics for pandas
+#### [🚀 Frameon - Advanced Analytics for pandas](https://github.com/PavelGrigoryevDS/frameon)
 
 **Stack**: Python | Pandas | NumPy | SciPy | Plotly | Statsmodels | Scikit-learn | Pingouin | TextBlob | Sphinx
+
 **Key Methods**: Data Exploration | Statistical Testing | Cohort Analysis | Automated Visualization | Feature Analysis | Machine Learning
 
 Powerful pandas extension that enhances DataFrames with production-ready analytics while maintaining native functionality.
