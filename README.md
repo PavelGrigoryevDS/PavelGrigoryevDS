@@ -76,6 +76,22 @@ By extracting insights from complex data sets, I help organizations make data-dr
 
 ### 🌟 Featured Projects
 
+#### 🚀 Frameon - Advanced Analytics for pandas
+
+**Stack**: Python | Pandas | NumPy | SciPy | Plotly | Statsmodels | Scikit-learn | Pingouin | TextBlob | Sphinx
+**Key Methods**: Data Exploration | Statistical Testing | Cohort Analysis | Automated Visualization | Feature Analysis | Machine Learning
+
+Powerful pandas extension that enhances DataFrames with production-ready analytics while maintaining native functionality.
+
+- Seamlessly integrates exploratory analysis, statistical testing and visualization into pandas workflows
+- Provides instant insights through automated data profiling and quality checks
+- Enables cohort analysis with flexible periodization and metric customization
+- Offers built-in statistical methods (bootstrap, effect sizes, group comparisons)
+- Generates interactive visualizations with single-command access
+- Supports both DataFrame-level and column-specific analysis
+- Modular architecture allows extending with domain-specific methods
+- Preserves all native pandas functionality for backward compatibility
+
 #### [🌊 Deep Sales Analysis of Olist E-Commerce](https://github.com/PavelGrigoryevDS/olist-deep-dive)
 
 **Stack:** `Python` | `Pandas` | `Plotly` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
