@@ -115,3 +115,19 @@ Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and
 - NLP processing of customer reviews (sentiment analysis)
 - Hypothesis validation involved conducting tests to verify data-driven assumptions.
 - Delivered strategic, data-backed recommendations to optimize logistics, enhance customer retention strategies, and drive sales growth.
+
+---
+
+#### [🔍 Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)  
+
+**Core Skills:** `Knowledge Management` | `Critical Thinking` | `Research` | `Content Curation` | `Information Architecture`  
+
+A curated knowledge hub demonstrating systematic approach to data analysis, reflecting expertise in structuring complex information and evaluating technical content.
+
+- **Systematized 400+ resources** into logical learning paths 
+- **Implemented quality control** - Selected materials based on accuracy and relevance
+- **Optimized for usability** - Structured content for quick navigation 
+- **Enhanced user experience** - Developed a web version to facilitate easy access and navigation
+- **Synthesized fragmented knowledge** into unified framework
+- **Covered full analytics pipeline** from fundamentals to deployment
+
