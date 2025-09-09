@@ -103,7 +103,7 @@ Powerful pandas extension that enhances DataFrames with production-ready analyti
 
 #### [🌊 Deep Sales Analysis of Olist E-Commerce](https://github.com/PavelGrigoryevDS/olist-deep-dive)
 
-**Stack:** `Python` | `Pandas` | `Plotly` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
+**Stack:** `Python` | `Pandas` | `Plotly` | `Tableau` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
 
 **Key Methods:** `Time-Series` | `Anomaly Detection` | `Custom Metrics` | `RFM/Cohorts` | `NLP` | `Clustering`  
 
