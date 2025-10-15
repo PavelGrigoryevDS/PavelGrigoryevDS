@@ -7,20 +7,21 @@
 
 ### 🧑‍💻 About me
 I hold a higher technical education.  
-I specialize in data analysis and visualization, with a focus on empowering informed decision-making.     
+I specialize in data analysis with a focus on empowering informed decision-making.     
 By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
 ---
  
 ### 🛠️ Languages and Tools
-- **Programming languages:** Python, SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
-- **Data analysis and visualization:** 
-  - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Plotly, Dash, Matplotlib, Seaborn.
-  - **Tools:** Power BI, Tableau, Redash, DataLens, Superset.
-- **Machine learning and AI:** Scikit-learn, Pyspark.
-- **Natural Language Processing:** NLTK.
+- **Programming Languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
+- **Data Analysis & Visualization:**
+  - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Pingouin, Plotly, Matplotlib, Seaborn.
+  - **Tools & Frameworks:** Dash, Power BI, Tableau, Redash, DataLens, Superset.
+- **Big Data & Distributed Computing**: Apache Spark, Apache Airflow.
+- **Machine learning and AI:** Scikit-learn, MLlib.
+- **Natural Language Processing:** NLTK, SpaCy, TextBlob.
 - **Web scraping:** BeautifulSoup, Selenium, Scrapy.
-- **DevOps:** Linux, Git, Docker, Apache Airflow.
+- **DevOps:** Linux, Git, Docker.
 - **IDEs:** VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
   
 
@@ -72,12 +73,13 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Product metrics analysis:**  LTV, RR, CR, ARPU, ARPPU, MAU, DAU, and other key performance indicators.
 - **Conducting A/B testing:**  analyzing results using statistical methods to evaluate the effectiveness of changes.
 - **Cohort analysis and RFM segmentation:**  identifying user behavior patterns to optimize marketing strategies.
+- **End-to-End Data Pipelines:** Building automated ETL processes from databases to dashboards with Airflow orchestration.
 - **Data visualization and dashboard development:**  creating interactive reports in Tableau, Redash, Power BI, and other tools for presenting analytics.
 - **Web scraping:** experience in extracting data from websites using tools and libraries such as BeautifulSoup, Scrapy, and Selenium for information gathering and data analysis.
 - **Working with big data:**  experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
 - **Machine Learning Applications:** Capable of building and applying simple machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
 - **Working with APIs:**  integrating and extracting data from various sources via APIs.
-
+- **Process Automation:** Automating data workflows and routine tasks using Linux scripting, Apache Airflow and other DevOps tools.
 ---
 
 ### 🌟 Featured Projects
