@@ -19,7 +19,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
   - **Tools & Frameworks:** Dash, Power BI, Tableau, Redash, DataLens, Superset.
 - **Big Data & Distributed Computing**: Apache Spark, Apache Airflow.
 - **Machine learning and AI:** Scikit-learn, MLlib.
-- **Time Series Forecasting:** Facebook Prophet, Uber Orbit,
+- **Time Series Forecasting:** Facebook Prophet, Uber Orbit.
 - **Natural Language Processing:** NLTK, SpaCy, TextBlob.
 - **Web scraping:** BeautifulSoup, Selenium, Scrapy.
 - **DevOps:** Linux, Git, Docker.
