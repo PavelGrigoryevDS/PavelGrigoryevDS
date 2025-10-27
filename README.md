@@ -19,6 +19,7 @@ By extracting insights from complex data sets, I help organizations make data-dr
   - **Tools & Frameworks:** Dash, Power BI, Tableau, Redash, DataLens, Superset.
 - **Big Data & Distributed Computing**: Apache Spark, Apache Airflow.
 - **Machine learning and AI:** Scikit-learn, MLlib.
+- **Time Series Forecasting:** Facebook Prophet, Uber Orbit,
 - **Natural Language Processing:** NLTK, SpaCy, TextBlob.
 - **Web scraping:** BeautifulSoup, Selenium, Scrapy.
 - **DevOps:** Linux, Git, Docker.
@@ -77,7 +78,8 @@ By extracting insights from complex data sets, I help organizations make data-dr
 - **Data visualization and dashboard development:**  creating interactive reports in Tableau, Redash, Power BI, and other tools for presenting analytics.
 - **Web scraping:** experience in extracting data from websites using tools and libraries such as BeautifulSoup, Scrapy, and Selenium for information gathering and data analysis.
 - **Working with big data:**  experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
-- **Machine Learning Applications:** Capable of building and applying simple machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
+- **Machine Learning Applications:** Capable of building and applying machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
+- **Business and Metric Forecasting:** Building and interpreting time series forecasts for key business metrics using libraries like Uber Orbit and Facebook Prophet for intuitive, robust forecasting to support strategic planning and goal-setting.
 - **Working with APIs:**  integrating and extracting data from various sources via APIs.
 - **Process Automation:** Automating data workflows and routine tasks using Linux scripting, Apache Airflow and other DevOps tools.
 ---
