@@ -107,7 +107,7 @@
 
 A curated knowledge hub demonstrating systematic approach to data analysis, reflecting expertise in structuring complex information and evaluating technical content.
 
-- **Systematized 400+ resources** into logical learning paths 
+- **Systematized 500+ resources** into logical learning paths 
 - **Implemented quality control** - Selected materials based on accuracy and relevance
 - **Optimized for usability** - Structured content for quick navigation 
 - **Enhanced user experience** - Developed a web version to facilitate easy access and navigation
