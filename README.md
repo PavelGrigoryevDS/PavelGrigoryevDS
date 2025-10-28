@@ -187,4 +187,4 @@ Powerful pandas extension that enhances DataFrames with production-ready analyti
 
 ---
 
-[👉 View all projects](https://github.com/PavelGrigoryevDS/data-analysis-portfolio)
+#### [👉 View all projects](https://github.com/PavelGrigoryevDS/data-analysis-portfolio)
