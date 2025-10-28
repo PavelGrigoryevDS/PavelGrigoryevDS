@@ -103,7 +103,7 @@
 
 #### [😎 Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)  
 
-**Core Skills:** `Knowledge Management` | `Critical Thinking` | `Research` | `Content Curation` | `Information Architecture`  
+**Key Methods:** `Knowledge Management` | `Critical Thinking` | `Research` | `Content Curation` | `Information Architecture`  
 
 A curated knowledge hub demonstrating systematic approach to data analysis, reflecting expertise in structuring complex information and evaluating technical content.
 
@@ -141,6 +141,7 @@ Building analytics process for startup: infrastructure, dashboards, A/B testing,
 **Key Methods:** `Time-Series` | `Anomaly Detection` | `Custom Metrics` | `RFM/Cohorts` | `NLP` | `Clustering`  
 
 Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and actionable business recommendations.
+
 - Time-series analysis of sales dynamics, seasonality, and trend decomposition
 - Anomaly detection in orders, payments, and delivery times
 - Customer profiling (RFM segmentation, clustering, geo-analysis)
@@ -153,9 +154,9 @@ Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and
 
 #### [🌐 WWI Data Pipeline and Dashboard](https://github.com/PavelGrigoryevDS/wwi-data-pipeline-dashboard/)
 
-Stack: Python | PostgreSQL | Airflow | Yandex DataLens | SQLAlchemy | DBLink
+**Stack:** Python | PostgreSQL | Airflow | Yandex DataLens | SQLAlchemy | DBLink
 
-Key Methods: ETL Pipelines | Star Schema | Data Warehousing | Dashboard Design | SQL Optimization
+**Key Methods:** ETL Pipelines | Star Schema | Data Warehousing | Dashboard Design | SQL Optimization
 
 End-to-end data pipeline and business intelligence solution for global distributor Wide World Importers.
 
