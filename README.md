@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About me
 
-I have a technical background and specialize in data analysis, with a focus on extracting actionable insights from complex datasets to support strategic decisions and deliver measurable business growth. I truly enjoy using data analysis and A/B testing to guide and accelerate product development. 
+I have a technical background and specialize in data analysis, with a focus on extracting actionable insights from complex datasets to support strategic decisions and deliver measurable business growth. I truly enjoy using data analysis and A/B testing to improve products.
 
 ---
  
