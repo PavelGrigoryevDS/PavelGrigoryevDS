@@ -7,9 +7,7 @@
 
 ### 🧑‍💻 About me
 
-- I hold a higher technical education.  
-- I specialize in data analysis with a focus on empowering informed decision-making.     
-- By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
+I have a technical background and specialize in data analysis, with a focus on extracting actionable insights from complex datasets to support strategic decisions and deliver measurable business growth. I truly enjoy using data analysis and A/B testing to guide and accelerate product development. 
 
 ---
  
