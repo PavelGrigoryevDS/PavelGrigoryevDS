@@ -2,7 +2,7 @@
 
 ## 👋 Welcome! I'm Pavel
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/pavel-grigoryev-ds/) [![](https://camo.githubusercontent.com/5292cf9fbe50b47fc032ce7145fd4835f20f5bd777dc193e19486f901b5d83e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/PavelGrigoryevDS) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavel.grigoryev.ds@gmail.com)
+[![](https://camo.githubusercontent.com/5292cf9fbe50b47fc032ce7145fd4835f20f5bd777dc193e19486f901b5d83e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/PavelGrigoryevDS) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavel.grigoryev.ds@gmail.com)
 
 ### 🧑‍💻 About me
 
