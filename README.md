@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=PAGriAnalytics&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=PAGriAnalytics&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/stars/PavelGrigoryevDS?style=social" alt=""/>
 
 ## 👋 Welcome! I'm Pavel
 
