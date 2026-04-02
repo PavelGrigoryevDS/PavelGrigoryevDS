@@ -1,8 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=PAGriAnalytics&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/stars/PavelGrigoryevDS?style=social" alt=""/>
 
 ## 👋 Welcome! I'm Pavel
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/PavelGrigoryevDS) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavel.grigoryev.ds@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavel.grigoryev.ds@gmail.com)
 
 ### 🧑‍💻 About me
 
