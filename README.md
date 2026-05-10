@@ -38,8 +38,6 @@ I have a technical background and specialize in data analysis, with a focus on e
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mongodb.com">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tableau.com">
-      <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/></a>&nbsp;
   <a href="https://scikit-learn.org">
       <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="40" height="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com">
