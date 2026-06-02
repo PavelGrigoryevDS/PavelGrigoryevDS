@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About me
 
-I have a technical background and specialize in data analysis, with a focus on extracting actionable insights from complex datasets to support strategic decisions and deliver measurable business growth. I truly enjoy using data analysis and A/B testing to improve products.
+I have a technical background and specialize in data analysis with a strong engineering focus on data pipelines and architecture. I design scalable data solutions and extract actionable insights from complex datasets to support strategic decisions and deliver measurable business growth. I truly enjoy bridging data engineering with product analytics.
 
 ---
  
@@ -14,7 +14,7 @@ I have a technical background and specialize in data analysis, with a focus on e
 - **Data Analysis & Visualization:**
   - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Pingouin, Plotly, Matplotlib, Seaborn.
   - **Tools & Frameworks:** Dash, Power BI, Tableau, Redash, DataLens, Superset.
-- **Big Data & Distributed Computing**: Apache Spark, Apache Airflow.
+- **Big Data & Distributed Computing**: Apache Hadoop, Apache Spark, Apache Kafka, Apache Airflow, S3
 - **Machine learning and AI:** Scikit-learn, MLlib.
 - **Time Series Forecasting:** Facebook Prophet, Uber Orbit.
 - **Natural Language Processing:** NLTK, SpaCy, TextBlob.
@@ -52,13 +52,30 @@ I have a technical background and specialize in data analysis, with a focus on e
      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
  <a href="https://airflow.apache.org">
      <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="40" height="40"/></a>&nbsp;
-
+ <a href="https://airflow.apache.org">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Airflow" alt="Hadoop" width="40" height="40"/></a>&nbsp;
+   <a href="https://airflow.apache.org">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Airflow" alt="Spark" width="40" height="40"/></a>&nbsp;
+  <a href="https://airflow.apache.org">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Airflow" alt="Kafka" width="40" height="40"/></a>&nbsp;
   </div>
 
 ---
 
 ### 🎯 Skills
 
+- **Data Architecture Design:**
+  - Designing data lakes, data warehouses, and implementing Data Vault 2.0 modeling principles for scalable and resilient systems.
+- **End-to-End Data Pipelines:**
+  - Building and orchestrating automated ETL/ELT processes from databases to dashboards using Apache Airflow.
+- **Working with Big Data:**
+  - Extensive experience with the Hadoop ecosystem (HDFS, Hive) and Apache Spark for processing and analyzing large-scale datasets.
+- **Streaming & Messaging Systems:**
+  - Working with Apache Kafka for real-time data streaming and integration.
+- **Data Transformation & Modeling:**
+  - Transforming, testing, and documenting data models using dbt to ensure data quality and reliability.
+- **Business Requirements Management:**
+  - Eliciting, gathering, and documenting business requirements to translate stakeholder needs into actionable data solutions.
 - **Deep data analysis:**
   - Preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
 - **Writing complex SQL queries:**
@@ -71,14 +88,10 @@ I have a technical background and specialize in data analysis, with a focus on e
   - Analyzing results using statistical methods to evaluate the effectiveness of changes.
 - **Cohort analysis and RFM segmentation:**
   - Identifying user behavior patterns to optimize marketing strategies.
-- **End-to-End Data Pipelines:**
-  - Building automated ETL processes from databases to dashboards with Airflow orchestration.
 - **Data visualization and dashboard development:**
   - Creating interactive reports in Tableau, Redash, Power BI, and other tools for presenting analytics.
 - **Web scraping:**
   - Experience in extracting data from websites using tools and libraries such as BeautifulSoup, Scrapy, and Selenium for information gathering and data analysis.
-- **Working with big data:**
-  - Experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
 - **Machine Learning Applications:**
   - Capable of building and applying machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
 - **Business and Metric Forecasting:**
@@ -87,94 +100,3 @@ I have a technical background and specialize in data analysis, with a focus on e
   - Integrating and extracting data from various sources via APIs.
 - **Process Automation:**
   - Automating data workflows and routine tasks using Linux scripting, Apache Airflow and other DevOps tools.
----
-
-### 🌟 Featured Projects
-
-#### [😎 Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)  
-
-**Key Methods:** `Knowledge Management` | `Critical Thinking` | `Research` | `Content Curation` | `Information Architecture`  
-
-A curated knowledge hub demonstrating systematic approach to data analysis, reflecting expertise in structuring complex information and evaluating technical content.
-
-- **Systematized 500+ resources** into logical learning paths 
-- **Implemented quality control** - Selected materials based on accuracy and relevance
-- **Optimized for usability** - Structured content for quick navigation 
-- **Enhanced user experience** - Developed a web version to facilitate easy access and navigation
-- **Synthesized fragmented knowledge** into unified framework
-- **Covered full analytics pipeline** from fundamentals to deployment
-
----
-
-#### [🧩 Building Startup Analytics](https://github.com/PavelGrigoryevDS/building-startup-analytics/)
-
-**Stack:** Python | ClickHouse | Apache Airflow | Superset | Yandex DataLens | StatsModels | Uber Orbit | Telegram API
-
-**Key Methods:** A/B Testing | Time Series Forecasting | Anomaly Detection | Cohort Analysis | ETL Pipelines | Dashboard Design
-
-Building analytics process for startup: infrastructure, dashboards, A/B testing, forecasting, automated reports, and anomaly detection.
-
-- Built complete data infrastructure from raw events to automated business intelligence
-- Designed interactive dashboards for real-time monitoring of user engagement and retention
-- Implemented rigorous A/B testing pipeline with statistical validation of feature experiments
-- Developed forecasting models for server load prediction and capacity planning
-- Created automated reporting system with daily Telegram delivery to stakeholders
-- Established real-time anomaly detection for proactive issue resolution
-- Enabled data-driven product decisions through comprehensive analytics ecosystem
-
----
-
-#### [🌊 Deep Sales Analysis of Olist E-Commerce](https://github.com/PavelGrigoryevDS/olist-deep-dive)
-
-**Stack:** `Python` | `Pandas` | `Plotly` | `Tableau` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
-
-**Key Methods:** `Time-Series` | `Anomaly Detection` | `Custom Metrics` | `RFM/Cohorts` | `NLP` | `Clustering`  
-
-Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and actionable business recommendations.
-
-- Time-series analysis of sales dynamics, seasonality, and trend decomposition
-- Anomaly detection in orders, payments, and delivery times
-- Customer profiling (RFM segmentation, clustering, geo-analysis)
-- Cohort analysis to track retention and lifetime value (LTV)
-- NLP processing of customer reviews (sentiment analysis)
-- Hypothesis validation involved conducting tests to verify data-driven assumptions.
-- Delivered strategic, data-backed recommendations to optimize logistics, enhance customer retention strategies, and drive sales growth.
-
----
-
-#### [🌐 WWI Data Pipeline and Dashboard](https://github.com/PavelGrigoryevDS/wwi-data-pipeline-dashboard/)
-
-**Stack:** Python | PostgreSQL | Airflow | Yandex DataLens | SQLAlchemy | DBLink
-
-**Key Methods:** ETL Pipelines | Star Schema | Data Warehousing | Dashboard Design | SQL Optimization
-
-End-to-end data pipeline and business intelligence solution for global distributor Wide World Importers.
-
-- Built automated ETL pipeline transforming OLTP data into optimized star schema data mart
-- Designed and implemented interactive dashboard for sales, logistics, and customer analytics
-- Developed daily automated data updates with Airflow DAG orchestration
-- Enabled data-driven decision making across sales, procurement, and logistics departments
-- Reduced manual reporting time through automated data consolidation and visualization
-
----  
-
-#### [🚀 Frameon - Advanced Analytics for Pandas](https://github.com/PavelGrigoryevDS/frameon)
-
-**Stack**: Python | Pandas | NumPy | SciPy | Plotly | Statsmodels | Scikit-learn | Pingouin | TextBlob | Sphinx
-
-**Key Methods**: Data Exploration | Statistical Testing | Cohort Analysis | Automated Visualization | Feature Analysis | Machine Learning
-
-Powerful pandas extension that enhances DataFrames with production-ready analytics while maintaining native functionality.
-
-- Seamlessly integrates exploratory analysis, statistical testing and visualization into pandas workflows
-- Provides instant insights through automated data profiling and quality checks
-- Enables cohort analysis with flexible periodization and metric customization
-- Offers built-in statistical methods (bootstrap, effect sizes, group comparisons)
-- Generates interactive visualizations with single-command access
-- Supports both DataFrame-level and column-specific analysis
-- Modular architecture allows extending with domain-specific methods
-- Preserves all native pandas functionality for backward compatibility
-
----
-
-#### [👉 View all projects](https://github.com/PavelGrigoryevDS/data-analysis-portfolio)
