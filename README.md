@@ -140,7 +140,7 @@ Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and
 
 #### [🧩 Building Startup Analytics](https://github.com/PavelGrigoryevDS/building-startup-analytics/)
 
-**Stack:** Python | ClickHouse | Apache Airflow | Superset | Yandex DataLens | StatsModels | Uber Orbit | Telegram API
+**Stack:** `Python` | `ClickHouse` | `Apache Airflow` | `Superset` | `Yandex DataLens` | `StatsModels` | `Uber Orbit` | `Telegram API`
 
 **Key Methods:** A/B Testing | Time Series Forecasting | Anomaly Detection | Cohort Analysis | ETL Pipelines | Dashboard Design
 
@@ -158,7 +158,7 @@ Building analytics process for startup: infrastructure, dashboards, A/B testing,
 
 #### [🚀 Frameon - Advanced Analytics for Pandas](https://github.com/PavelGrigoryevDS/frameon)
 
-**Stack**: Python | Pandas | NumPy | SciPy | Plotly | Statsmodels | Scikit-learn | Pingouin | TextBlob | Sphinx
+**Stack**: `Python` | `Pandas` | `NumPy` | `SciPy` | `Plotly` | `Statsmodels` | `Scikit-learn` | `Pingouin` | `TextBlob` | `Sphinx`
 
 **Key Methods**: Data Exploration | Statistical Testing | Cohort Analysis | Automated Visualization | Feature Analysis | Machine Learning
 
