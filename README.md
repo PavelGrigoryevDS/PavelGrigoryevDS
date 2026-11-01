@@ -142,7 +142,7 @@ Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and
 
 **Stack:** `Python` | `ClickHouse` | `Apache Airflow` | `Superset` | `Yandex DataLens` | `StatsModels` | `Uber Orbit` | `Telegram API`
 
-**Key Methods:** A/B Testing | Time Series Forecasting | Anomaly Detection | Cohort Analysis | ETL Pipelines | Dashboard Design
+**Key Methods:** `A/B Testing` | `Time Series Forecasting` | `Anomaly Detection` | `Cohort Analysis` | `ETL Pipelines` | `Dashboard Design`
 
 Building analytics process for startup: infrastructure, dashboards, A/B testing, forecasting, automated reports, and anomaly detection.
 
@@ -160,7 +160,7 @@ Building analytics process for startup: infrastructure, dashboards, A/B testing,
 
 **Stack**: `Python` | `Pandas` | `NumPy` | `SciPy` | `Plotly` | `Statsmodels` | `Scikit-learn` | `Pingouin` | `TextBlob` | `Sphinx`
 
-**Key Methods**: Data Exploration | Statistical Testing | Cohort Analysis | Automated Visualization | Feature Analysis | Machine Learning
+**Key Methods**: `Data Exploration` | `Statistical Testing` | `Cohort Analysis` | `Automated Visualization` | `Feature Analysis` | `Machine Learning`
 
 Powerful pandas extension that enhances DataFrames with production-ready analytics while maintaining native functionality.
 
