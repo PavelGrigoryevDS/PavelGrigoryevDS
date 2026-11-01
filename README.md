@@ -10,7 +10,7 @@ I have a technical background and specialize in data analysis with a strong engi
 ---
  
 ### 🛠️ Languages and Tools
-- **Programming Languages:** Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
+- **Programming Languages:** Python, SQL (PostgreSQL, MS SQL, ClickHouse, Greenplum), NoSQL (MongoDB).
 - **Data Analysis & Visualization:**
   - **Libraries:** Pandas, NumPy, SciPy, Statsmodels, Pingouin, Plotly, Matplotlib, Seaborn.
   - **Tools & Frameworks:** Dash, Power BI, Tableau, Redash, DataLens, Superset.
@@ -100,3 +100,75 @@ I have a technical background and specialize in data analysis with a strong engi
   - Integrating and extracting data from various sources via APIs.
 - **Process Automation:**
   - Automating data workflows and routine tasks using Linux scripting, Apache Airflow and other DevOps tools.
+
+---
+
+### 🌟 Featured Projects
+
+#### [😎 Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)  
+
+**Key Methods:** `Knowledge Management` | `Critical Thinking` | `Research` | `Content Curation` | `Information Architecture`  
+
+A curated knowledge hub demonstrating systematic approach to data analysis, reflecting expertise in structuring complex information and evaluating technical content.
+
+- **Systematized 500+ resources** into logical learning paths 
+- **Implemented quality control** - Selected materials based on accuracy and relevance
+- **Optimized for usability** - Structured content for quick navigation 
+- **Enhanced user experience** - Developed a web version to facilitate easy access and navigation
+- **Synthesized fragmented knowledge** into unified framework
+- **Covered full analytics pipeline** from fundamentals to deployment
+
+---
+
+#### [🌊 Deep Sales Analysis of Olist E-Commerce](https://github.com/PavelGrigoryevDS/olist-deep-dive)
+
+**Stack:** `Python` | `Pandas` | `Plotly` | `Tableau` | `StatsModels` | `SciPy` | `NLTK` | `TextBlob` | `Sklearn` | `Pingouin`
+
+**Key Methods:** `Time-Series` | `Anomaly Detection` | `Custom Metrics` | `RFM/Cohorts` | `NLP` | `Clustering`  
+
+Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and actionable business recommendations.
+
+- Time-series analysis of sales dynamics, seasonality, and trend decomposition
+- Anomaly detection in orders, payments, and delivery times
+- Customer profiling (RFM segmentation, clustering, geo-analysis)
+- Cohort analysis to track retention and lifetime value (LTV)
+- NLP processing of customer reviews (sentiment analysis)
+- Hypothesis validation involved conducting tests to verify data-driven assumptions.
+- Delivered strategic, data-backed recommendations to optimize logistics, enhance customer retention strategies, and drive sales growth.
+
+---
+
+#### [🧩 Building Startup Analytics](https://github.com/PavelGrigoryevDS/building-startup-analytics/)
+
+**Stack:** Python | ClickHouse | Apache Airflow | Superset | Yandex DataLens | StatsModels | Uber Orbit | Telegram API
+
+**Key Methods:** A/B Testing | Time Series Forecasting | Anomaly Detection | Cohort Analysis | ETL Pipelines | Dashboard Design
+
+Building analytics process for startup: infrastructure, dashboards, A/B testing, forecasting, automated reports, and anomaly detection.
+
+- Built complete data infrastructure from raw events to automated business intelligence
+- Designed interactive dashboards for real-time monitoring of user engagement and retention
+- Implemented rigorous A/B testing pipeline with statistical validation of feature experiments
+- Developed forecasting models for server load prediction and capacity planning
+- Created automated reporting system with daily Telegram delivery to stakeholders
+- Established real-time anomaly detection for proactive issue resolution
+- Enabled data-driven product decisions through comprehensive analytics ecosystem
+
+---
+
+#### [🚀 Frameon - Advanced Analytics for Pandas](https://github.com/PavelGrigoryevDS/frameon)
+
+**Stack**: Python | Pandas | NumPy | SciPy | Plotly | Statsmodels | Scikit-learn | Pingouin | TextBlob | Sphinx
+
+**Key Methods**: Data Exploration | Statistical Testing | Cohort Analysis | Automated Visualization | Feature Analysis | Machine Learning
+
+Powerful pandas extension that enhances DataFrames with production-ready analytics while maintaining native functionality.
+
+- Seamlessly integrates exploratory analysis, statistical testing and visualization into pandas workflows
+- Provides instant insights through automated data profiling and quality checks
+- Enables cohort analysis with flexible periodization and metric customization
+- Offers built-in statistical methods (bootstrap, effect sizes, group comparisons)
+- Generates interactive visualizations with single-command access
+- Supports both DataFrame-level and column-specific analysis
+- Modular architecture allows extending with domain-specific methods
+- Preserves all native pandas functionality for backward compatibility  
